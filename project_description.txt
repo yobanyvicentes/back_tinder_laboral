@@ -1,0 +1,13 @@
+Descripción
+
+API que permita buscar personas según sus habilidades, con el fin de contratarlas.
+Pedrito Sola es introvertido pero muy bueno hablando en público. Quiere ganar unos pesos explotando sus habilidades, por lo que decide hacer una cuenta en 'Tinder para Habilidades', donde se publica cobrando 30 USD por hora de trabajo.
+Rappi es una empresa que está buscando a alguien que haga comerciales, con buenas habilidades para hablar en público, así que buscan en la plataforma 'Tinder para Habilidades y encuentran a Pedrito Sola.
+Se ponen en contacto con él y acuerdan trabajar por 6 horas para grabar un comercial, Rappi debe entregarle a Pedrito una cotización.
+‘Tinder para Habilidades’ le pide a Rappi un anticipo para que Pedrito Sola se presente en las instalaciones de Justo, para comenzar a trabajar. Una vez realizado el anticipo se le notifica a Pedrito Sola el día, la hora y el lugar donde se tiene que presentar.
+Una vez terminado el comercial, Pedrito Sola y Rappi confirman como terminado el servicio en la app y Rappi tiene que terminar de pagar y calificar el servicio de Pedrito Sola.
+
+Requerimientos técnicos del proyecto:
+Diseño de la base de datos (draw.io, miro, etc)
+Migraciones
+MVC
